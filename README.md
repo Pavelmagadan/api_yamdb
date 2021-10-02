@@ -13,7 +13,7 @@
 ![](https://img.shields.io/badge/python-v3.9-blue)
 
 ## Как развернуть
-1. Склонируйте репозиторий: ```https://github.com/Pavelmagadan/api_yamdb.git```.
+1. Склонируйте репозиторий: ```https://github.com/palmage/api_yamdb.git```.
 2. С помощью [инструкции](https://python-scripts.com/virtualenv) создайте 
 и активируйте виртуальное окружение.
 3. Установите зависимости: ```pip install -r requirements.txt```.
